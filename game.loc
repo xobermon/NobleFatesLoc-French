@@ -465,21 +465,21 @@ Oct.Abilities.Vulnerable.description=La cible perd 10 d'armure pendant 1 h <br
 \\	Oct.Belongings.Manager.autoClaimTooltip=Auto Claim allows Mortals to claim the Gear they prefer for each slot from the available Claimables.<br><br>Mortals choose in order of Title, followed by Maturity, then Ambition. They take into account Preferences, Skills, Job Assignments, Wants and Gear Buffs.<br><br>They do not claim more than they need nor do they consider the desires of other Mortals.<br><br>Gear is automatically marked Claimable if it passes the Claimable Rules. You can override the Claimable flag per Item.<br><br>The Auto Claim Rules dictate the additional rules that your Mortals must follow when claiming a Claimable.<br><br>You can override a Mortal's choices by Giving or Taking Items from them at any time.
 \\
 \\\\
-Oct.Belongings.Manager.autoClaimTooltip=\\untranslated
+Oct.Belongings.Manager.autoClaimTooltip=L'option Récupération auto permet aux mortels de récupérer l'équipement qu'ils préfèrent pour chaque emplacement parmi les objets récupérables disponibles.<br><br>Les mortels choisissent par ordre de titre, puis de maturité, puis d'ambition. Ils prennent en compte les préférences, compétences, affectations de travail, désirs et bonus d'équipement.<br><br>Ils ne récupèrent pas plus que nécessaire et ne tiennent pas compte des désirs d'autres mortels.<br><br>Tout équipement devient automatiquement récupérable s'il répond aux règles de récupérabilité. Vous pouvez définir manuellement l'état de récupérabilité d'un objet.<br><br>Les règles de Récupération auto sont des règles supplémentaires auxquelles les mortels doivent répondre pour récupérer un objet récupérable.<br><br>Vous pouvez interagir directement avec les choix de vos mortels en leur donnant ou en leur offrant des objets à tout moment.
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoJunkTooltip=Auto Junk allows you to define a set of Rules that will cause Items to be automatically considered Junk by your Mortals.<br><br>Junk can be stored separately from other Items (or not at all) and is easier to filter out and sell.<br><br>There are several disabled Rules in the list that can be beneficial to enable as your game progresses.
 \\
 \\\\
-Oct.Belongings.Manager.autoJunkTooltip=\\untranslated
+Oct.Belongings.Manager.autoJunkTooltip=L'option Déchet auto vous permet de définir un ensemble de règles pour désigner automatiquement des objets en tant que déchets aux yeux de vos mortels.<br><br>Les déchets peuvent être stockés séparément des autres objets (ou pas du tout) et sont plus faciles à filtrer et à vendre.<br><br>La liste contient plusieurs règles désactivées que vous ferez probablement mieux d'activer au fil de votre partie.
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoSalvageTooltip=Auto Salvage allows you to define a set of Rules that will cause your Mortals to automatically queue Gear up to be Salvaged.<br><br>Salvaging recovers some resources when the Salvaged Item is destroyed, so it's a better option than letting it decay.
 \\
 \\\\
-Oct.Belongings.Manager.autoSalvageTooltip=\\untranslated
+Oct.Belongings.Manager.autoSalvageTooltip=L'option Recycler auto vous permet de définir un ensemble de règles pour désigner automatiquement de l'équipement à faire recycler par vos mortels.<br><br>Étant donné que le recyclage vous permet de récupérer une partie des ressources de l'objet détruit, mieux vaut recycler un objet que le laisser dépérir.
 
 \\\\
 \\
@@ -8051,14 +8051,14 @@ Oct.Code.Belongings.IncludedIn=Compris dans {belonging}
 \\	Oct.Code.Belongings.Returned={character} returned {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Returned=\\untranslated
+Oct.Code.Belongings.Returned={subject.con(J'ai,Vous avez,{subject} a)} rendu {belonging}
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Claimed={character} claimed {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Claimed=\\untranslated
+Oct.Code.Belongings.Claimed={subject.con(J'ai,Vous avez,{subject} a)} pris {belonging}
 
 \\\\
 \\
@@ -8184,7 +8184,7 @@ Oct.Code.Belongings.Tabs.Jobs=Travaux
 \\	Oct.Code.Belongings.Autonomous.Title=Auto Claim
 \\
 \\\\
-Oct.Code.Belongings.Autonomous.Title=\\untranslated
+Oct.Code.Belongings.Autonomous.Title=Récupération auto
 
 \\\\
 \\
@@ -8198,21 +8198,21 @@ Oct.Code.Belongings.Header=Affaires
 \\	Oct.Code.Belongings.AutoClaim.ClaimNow=Claim Now
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.ClaimNow=\\untranslated
+Oct.Code.Belongings.AutoClaim.ClaimNow=Récupérer maintenant
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Considering={character} is considering {slot} options...
 \\
 \\\\
-Oct.Code.Belongings.Considering=\\untranslated
+Oct.Code.Belongings.Considering={character} réfléchit à ses options pour {slot}...
 
 \\\\
 \\
 \\	Oct.Code.Belongings.AutoClaim.In=Auto Claims in {timeframe}...
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.In=\\untranslated
+Oct.Code.Belongings.AutoClaim.In=Récupération auto dans {timeframe}...
 
 \\\\
 \\
@@ -8828,21 +8828,21 @@ Oct.Code.Characters.Name.Full={name} {family}
 \\	Oct.Code.Characters.Multiple.Noble={faction} Noble
 \\
 \\\\
-Oct.Code.Characters.Multiple.Noble=Noble de {faction}
+Oct.Code.Characters.Multiple.Noble=Noble des {faction}
 
 \\\\
 \\
 \\	Oct.Code.Characters.Multiple.Serf={faction} Serf
 \\
 \\\\
-Oct.Code.Characters.Multiple.Serf=Serf de {faction}
+Oct.Code.Characters.Multiple.Serf=Serf des {faction}
 
 \\\\
 \\
 \\	Oct.Code.Characters.Multiple.Prisoner.Faction={faction} Prisoner
 \\
 \\\\
-Oct.Code.Characters.Multiple.Prisoner.Faction=Prisonnier de {faction}
+Oct.Code.Characters.Multiple.Prisoner.Faction=Prisonnier des {faction}
 
 \\\\
 \\
@@ -9416,7 +9416,7 @@ Oct.Code.Characters.Opinions.Third.Hates=Déteste
 \\	Oct.Code.Characters.Opinions.Third.None=Doesn't mind
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.None=Pas d'avis
+Oct.Code.Characters.Opinions.Third.None=Pas d'avis sur
 
 \\\\
 \\
@@ -9521,7 +9521,7 @@ Oct.Code.Characters.Opinions.Verb.Third.Hates=Déteste
 \\	Oct.Code.Characters.Opinions.Verb.Third.NoOpinion=Doesn't mind
 \\
 \\\\
-Oct.Code.Characters.Opinions.Verb.Third.NoOpinion=Pas d'avis
+Oct.Code.Characters.Opinions.Verb.Third.NoOpinion=Pas d'avis sur
 
 \\\\
 \\
@@ -9675,21 +9675,21 @@ Oct.Code.Characters.Titles.Kingdom.Member={title} de {kingdom}
 \\	Oct.Code.Characters.Titles.Party.Leader=Leader of {party}
 \\
 \\\\
-Oct.Code.Characters.Titles.Party.Leader=Meneur de {party}
+Oct.Code.Characters.Titles.Party.Leader=Meneur des {party}
 
 \\\\
 \\
 \\	Oct.Code.Characters.Titles.Party.Member=Member of {party}
 \\
 \\\\
-Oct.Code.Characters.Titles.Party.Member=Membre de {party}
+Oct.Code.Characters.Titles.Party.Member=Membre des {party}
 
 \\\\
 \\
 \\	Oct.Code.Characters.Titles.Party.Kingdom={title} of {party}
 \\
 \\\\
-Oct.Code.Characters.Titles.Party.Kingdom={title} de {party}
+Oct.Code.Characters.Titles.Party.Kingdom={title} des {party}
 
 \\\\
 \\
@@ -9745,14 +9745,14 @@ Oct.Code.Characters.Relationship.Ward=tuteur
 \\	Oct.Code.Characters.Relationship.Relative=Relative
 \\
 \\\\
-Oct.Code.Characters.Relationship.Relative=un membre de la famille
+Oct.Code.Characters.Relationship.Relative=membre de la famille
 
 \\\\
 \\
 \\	Oct.Code.Characters.Relationship.Sibling=Sibling
 \\
 \\\\
-Oct.Code.Characters.Relationship.Sibling=frère ou sœur de
+Oct.Code.Characters.Relationship.Sibling=frère ou sœur
 
 \\\\
 \\
@@ -12566,7 +12566,7 @@ Oct.Code.Command.Blocked.NeedProp=Nécessite {prop} disponible
 \\	Oct.Code.Command.Micro={command} {target}
 \\
 \\\\
-Oct.Code.Command.Micro={command} à {target}
+Oct.Code.Command.Micro={command} {target}
 
 \\\\
 \\
@@ -13959,7 +13959,7 @@ Oct.Code.Commands.Gather=Collecter
 \\	Oct.Code.Common.Add=Add
 \\
 \\\\
-Oct.Code.Common.Add=\\untranslated
+Oct.Code.Common.Add=Ajouter
 
 \\\\
 \\
@@ -14232,7 +14232,7 @@ Oct.Code.Common.Expected=Attendu
 \\	Oct.Code.Common.Everything=Everything
 \\
 \\\\
-Oct.Code.Common.Everything=\\untranslated
+Oct.Code.Common.Everything=Tout
 
 \\\\
 \\
@@ -14731,14 +14731,14 @@ Oct.Code.Common.Ability=Capacité {ability}
 \\	Oct.Code.Common.Rules.Type={type} Rules
 \\
 \\\\
-Oct.Code.Common.Rules.Type=\\untranslated
+Oct.Code.Common.Rules.Type=Règles de {type}
 
 \\\\
 \\
 \\	Oct.Code.Common.Rules=Rules
 \\
 \\\\
-Oct.Code.Common.Rules=\\untranslated
+Oct.Code.Common.Rules=Règles
 
 \\\\
 \\
@@ -15629,7 +15629,7 @@ Oct.Code.FoodAndDrink.Header=Nourriture et boissons
 \\	Oct.Code.FoodAndDrink.Override=Override
 \\
 \\\\
-Oct.Code.FoodAndDrink.Override=\\untranslated
+Oct.Code.FoodAndDrink.Override=Définir
 
 \\\\
 \\
@@ -16426,7 +16426,7 @@ Oct.Code.Information.Belonging.LostValue=Les affaires de {owners} ({belonging}) 
 \\	Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(I,you,{to})} claimed {belonging}
 \\
 \\\\
-Oct.Code.Information.Belonging.Claimed.Advanced=\\untranslated
+Oct.Code.Information.Belonging.Claimed.Advanced={subject.con(J'ai,Vous avez,{to} a)} pris {belonging}
 
 \\\\
 \\
@@ -17468,7 +17468,7 @@ Oct.Code.Information.InKingdom.SubjectIsWas.Prior.Third={subject} était
 \\	Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.FirstSecond={title} of
 \\
 \\\\
-Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.FirstSecond={title} de
+Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.FirstSecond={title}
 
 \\\\
 \\
@@ -17477,7 +17477,7 @@ Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.FirstSecond={title} de
 \\	Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.Third=the Ruler of
 \\
 \\\\
-Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.Third=dirigeant de
+Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.Third=dirigeant
 
 \\\\
 \\
@@ -17486,7 +17486,7 @@ Oct.Code.Information.InKingdom.Title.Kingdom.Ruler.Third=dirigeant de
 \\	Oct.Code.Information.InKingdom.Title.Kingdom.Noble=a Noble of
 \\
 \\\\
-Oct.Code.Information.InKingdom.Title.Kingdom.Noble=un noble de
+Oct.Code.Information.InKingdom.Title.Kingdom.Noble=un noble
 
 \\\\
 \\
@@ -17495,7 +17495,7 @@ Oct.Code.Information.InKingdom.Title.Kingdom.Noble=un noble de
 \\	Oct.Code.Information.InKingdom.Title.Kingdom.Serf=a Serf of
 \\
 \\\\
-Oct.Code.Information.InKingdom.Title.Kingdom.Serf=un serf de
+Oct.Code.Information.InKingdom.Title.Kingdom.Serf=un serf
 
 \\\\
 \\
@@ -17504,7 +17504,7 @@ Oct.Code.Information.InKingdom.Title.Kingdom.Serf=un serf de
 \\	Oct.Code.Information.InKingdom.Title.Kingdom.Prisoner=a Prisoner of
 \\
 \\\\
-Oct.Code.Information.InKingdom.Title.Kingdom.Prisoner=un prisonnier de
+Oct.Code.Information.InKingdom.Title.Kingdom.Prisoner=un prisonnier
 
 \\\\
 \\
@@ -17522,7 +17522,7 @@ Oct.Code.Information.InKingdom.Kingdom.Advanced={subject.con(je suis,vous êtes,
 \\	Oct.Code.Information.InKingdom.Kingdom.Past.Under.Advanced={subject.con(I was,you were,{subject} was)} {title} {kingdom} under {ruler}{timeframe}
 \\
 \\\\
-Oct.Code.Information.InKingdom.Kingdom.Past.Under.Advanced={subject.con(j'étais,vous étiez,{subject} était)} {title} de {kingdom}par ordre de {ruler}{timeframe}
+Oct.Code.Information.InKingdom.Kingdom.Past.Under.Advanced={subject.con(j'étais,vous étiez,{subject} était)} {title} de {kingdom} par ordre de {ruler}{timeframe}
 
 \\\\
 \\
@@ -17531,7 +17531,7 @@ Oct.Code.Information.InKingdom.Kingdom.Past.Under.Advanced={subject.con(j'étais
 \\	Oct.Code.Information.InKingdom.Kingdom.Past.Under={subjectIsWas} {title} {kingdom} under {ruler}{timeframe}
 \\
 \\\\
-Oct.Code.Information.InKingdom.Kingdom.Past.Under={subjectIsWas} {title} {kingdom} par ordre de {ruler}{timeframe}
+Oct.Code.Information.InKingdom.Kingdom.Past.Under=\\untranslated
 
 \\\\
 \\
@@ -18214,7 +18214,7 @@ Oct.Code.Information.KingdomSizePreference.Compatibility=Préfère {kingdomSize}
 \\	Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(I prefer,you prefer,{subject} prefers)} {kingdomSize}
 \\
 \\\\
-Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(je préfère,vous préférez,{subject} préfère)} {kingdomSize}
+Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(Je préfère,Vous préférez,{subject} préfère)} {kingdomSize}
 
 \\\\
 \\
@@ -19656,7 +19656,7 @@ Oct.Code.Information.Petition.Rejected.RulerRejected.Third={subject} a rejeté
 \\	Oct.Code.Information.Relationship.Advanced={left.con(I am,you are,{left} is)} {right.con(my,your,{right}'s)} {relationship}
 \\
 \\\\
-Oct.Code.Information.Relationship.Advanced={left.con(je suis,vous êtes,{left} est)} {right.con(mon ou ma {relationship},votre {relationship},le ou la {relationship} de {right})}.
+Oct.Code.Information.Relationship.Advanced={left.con(je suis,vous êtes,{left} est)} {right.con(mon/ma {relationship},votre {relationship},le/la {relationship} de {right})}.
 
 \\\\
 \\
@@ -19665,7 +19665,7 @@ Oct.Code.Information.Relationship.Advanced={left.con(je suis,vous êtes,{left} e
 \\	Oct.Code.Information.Relationship={leftVerb} {rights} {relationship}
 \\
 \\\\
-Oct.Code.Information.Relationship={leftVerb} {rights} {relationship}
+Oct.Code.Information.Relationship=\\untranslated
 
 \\\\
 \\
@@ -19674,7 +19674,7 @@ Oct.Code.Information.Relationship={leftVerb} {rights} {relationship}
 \\	Oct.Code.Information.Relationship.LeftVerb.First=I am
 \\
 \\\\
-Oct.Code.Information.Relationship.LeftVerb.First=je
+Oct.Code.Information.Relationship.LeftVerb.First=\\untranslated
 
 \\\\
 \\
@@ -19683,7 +19683,7 @@ Oct.Code.Information.Relationship.LeftVerb.First=je
 \\	Oct.Code.Information.Relationship.LeftVerb.Second=you are
 \\
 \\\\
-Oct.Code.Information.Relationship.LeftVerb.Second=vous
+Oct.Code.Information.Relationship.LeftVerb.Second=\\untranslated
 
 \\\\
 \\
@@ -19692,7 +19692,7 @@ Oct.Code.Information.Relationship.LeftVerb.Second=vous
 \\	Oct.Code.Information.Relationship.LeftVerb.Third={subject} is
 \\
 \\\\
-Oct.Code.Information.Relationship.LeftVerb.Third={subject}
+Oct.Code.Information.Relationship.LeftVerb.Third=\\untranslated
 
 \\\\
 \\
@@ -20177,21 +20177,21 @@ Oct.Code.Items.Verbs.Cooked=cuit
 \\	Oct.Code.Items.Common.Claim.Auto=Auto Claim
 \\
 \\\\
-Oct.Code.Items.Common.Claim.Auto=\\untranslated
+Oct.Code.Items.Common.Claim.Auto=Récupération auto
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Junk.Auto=Auto Junk
 \\
 \\\\
-Oct.Code.Items.Common.Junk.Auto=\\untranslated
+Oct.Code.Items.Common.Junk.Auto=Déchet auto
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Salvage.Auto=Auto Salvage
 \\
 \\\\
-Oct.Code.Items.Common.Salvage.Auto=\\untranslated
+Oct.Code.Items.Common.Salvage.Auto=Recyclage auto
 
 \\\\
 \\
@@ -20205,14 +20205,14 @@ Oct.Code.Items.BaseEsteem=Estime de base
 \\	Oct.Code.Items.Claimable=Claimable
 \\
 \\\\
-Oct.Code.Items.Claimable=\\untranslated
+Oct.Code.Items.Claimable=Récupérable
 
 \\\\
 \\
 \\	Oct.Code.Items.Claimable.Mode=Claimable Mode
 \\
 \\\\
-Oct.Code.Items.Claimable.Mode=\\untranslated
+Oct.Code.Items.Claimable.Mode=Mode Récupérable
 
 \\\\
 \\
@@ -20296,7 +20296,7 @@ Oct.Code.Items.Common.Rarity=Rareté
 \\	Oct.Code.Items.Common.SalvageMode=Salvage Mode
 \\
 \\\\
-Oct.Code.Items.Common.SalvageMode=\\untranslated
+Oct.Code.Items.Common.SalvageMode=Mode Recyclage
 
 \\\\
 \\
@@ -20723,42 +20723,42 @@ Oct.Code.Kingdom.CannotRelocate.NoRuler=Aucun dirigeant !
 \\	Oct.Code.Kingdom.Size.Short.Large=Large
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Large=Grands
+Oct.Code.Kingdom.Size.Short.Large=grands
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Medium=Medium
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Medium=Intermédiaires
+Oct.Code.Kingdom.Size.Short.Medium=intermédiaires
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Small=Small
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Small=Petits
+Oct.Code.Kingdom.Size.Short.Small=petits
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Tiny=Tiny
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Tiny=Minuscules
+Oct.Code.Kingdom.Size.Short.Tiny=minuscules
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.VeryLarge=Very Large
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.VeryLarge=Très grands
+Oct.Code.Kingdom.Size.Short.VeryLarge=très grands
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size={size} Kingdoms
 \\
 \\\\
-Oct.Code.Kingdom.Size=Roy. {size}
+Oct.Code.Kingdom.Size={size} roy
 
 \\\\
 \\
@@ -20795,7 +20795,7 @@ Oct.Code.Land=Terre
 \\	Oct.Code.Language.Name=English
 \\
 \\\\
-Oct.Code.Language.Name=English
+Oct.Code.Language.Name=Français
 
 \\\\
 \\
@@ -21607,35 +21607,35 @@ Oct.Code.Party.Name.Rebels.Against=Les rebelles de {kingdom.singular}
 \\	Oct.Code.Party.Name.Rebels=The {leader} Rebels
 \\
 \\\\
-Oct.Code.Party.Name.Rebels=Les rebelles de {leader}
+Oct.Code.Party.Name.Rebels=rebelles de {leader}
 
 \\\\
 \\
 \\	Oct.Code.Party.Name.Kidnappers=The {leader} Kidnappers
 \\
 \\\\
-Oct.Code.Party.Name.Kidnappers=Les kidnappeurs de {leader}
+Oct.Code.Party.Name.Kidnappers=kidnappeurs de {leader}
 
 \\\\
 \\
 \\	Oct.Code.Party.Name.Militia.Place=The {place} Militia
 \\
 \\\\
-Oct.Code.Party.Name.Militia.Place=Les miliciens de {place}
+Oct.Code.Party.Name.Militia.Place=miliciens de {place}
 
 \\\\
 \\
 \\	Oct.Code.Party.Name.Militia=The {leader} Militia
 \\
 \\\\
-Oct.Code.Party.Name.Militia=Les miliciens de {leader}
+Oct.Code.Party.Name.Militia=miliciens de {leader}
 
 \\\\
 \\
 \\	Oct.Code.Party.Name.Wanderers=The {leader} Wanderers
 \\
 \\\\
-Oct.Code.Party.Name.Wanderers=Les vagabonds de {leader}
+Oct.Code.Party.Name.Wanderers=vagabonds de {leader}
 
 \\\\
 \\
@@ -22185,7 +22185,7 @@ Oct.Code.Props.Common.Open=Ouvrir
 \\	Oct.Code.Props.Common.PrivatelyOwned=Privately Owned
 \\
 \\\\
-Oct.Code.Props.Common.PrivatelyOwned=Propriété privilégiée
+Oct.Code.Props.Common.PrivatelyOwned=Propriété privée
 
 \\\\
 \\
@@ -22556,7 +22556,7 @@ Oct.Code.Relationship.Guardian=gardien
 \\	Oct.Code.Relationship.Relative=Relative
 \\
 \\\\
-Oct.Code.Relationship.Relative=un membre de la famille
+Oct.Code.Relationship.Relative=membre de la famille
 
 \\\\
 \\
@@ -22892,21 +22892,21 @@ Oct.Code.Rooms.InBuilding=Dans le bâtiment
 \\	Oct.Code.Rule.Complex=Complex
 \\
 \\\\
-Oct.Code.Rule.Complex=\\untranslated
+Oct.Code.Rule.Complex=Complexe
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.From=From
 \\
 \\\\
-Oct.Code.Rule.Hours.From=De :
+Oct.Code.Rule.Hours.From=De
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.To=To
 \\
 \\\\
-Oct.Code.Rule.Hours.To=À :
+Oct.Code.Rule.Hours.To=À
 
 \\\\
 \\
@@ -22920,105 +22920,105 @@ Oct.Code.Rules.Timeframe=De {fromHour} à {toHour}
 \\	Oct.Code.Rules.Quantity=Qty {comparison} {count}
 \\
 \\\\
-Oct.Code.Rules.Quantity=\\untranslated
+Oct.Code.Rules.Quantity=Qté {comparison} {count}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Value=Value {comparison} {value}
 \\
 \\\\
-Oct.Code.Rules.Value=\\untranslated
+Oct.Code.Rules.Value=Valeur {comparison} {value}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Durability=Durability {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Durability=\\untranslated
+Oct.Code.Rules.Durability=Durabilité {comparison} {durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Quality=Quality {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Quality=\\untranslated
+Oct.Code.Rules.Quality=Qualité {comparison} {durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Rarity=Rarity {comparison} {rarity}
 \\
 \\\\
-Oct.Code.Rules.Rarity=\\untranslated
+Oct.Code.Rules.Rarity=Rareté {comparison} {rarity}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BuffPoints=Buff Points {comparison} {points}
 \\
 \\\\
-Oct.Code.Rules.BuffPoints=\\untranslated
+Oct.Code.Rules.BuffPoints=Pts de bonus {comparison} {points}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is=Is
 \\
 \\\\
-Oct.Code.Rules.Is=\\untranslated
+Oct.Code.Rules.Is=Est
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is.Type=Is {type}
 \\
 \\\\
-Oct.Code.Rules.Is.Type=\\untranslated
+Oct.Code.Rules.Is.Type=Est {type}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare.Keep=Keep
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare.Keep=\\untranslated
+Oct.Code.Rules.BookSet.Spare.Keep=Garder
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare=Is Spare Book Set (Keep {count})
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare=\\untranslated
+Oct.Code.Rules.BookSet.Spare=Est une collection de livres en trop (garder {count})
 
 \\\\
 \\
 \\	Oct.Code.Rules.Ambition=Prestige {comparison} {percent}% of Ambition
 \\
 \\\\
-Oct.Code.Rules.Ambition=\\untranslated
+Oct.Code.Rules.Ambition=Prestige {comparison} {percent} % de l'ambition
 
 \\\\
 \\
 \\	Oct.Code.Rules.Lodging=Prestige {comparison} {percent}% of Lodging
 \\
 \\\\
-Oct.Code.Rules.Lodging=\\untranslated
+Oct.Code.Rules.Lodging=Prestige {comparison} {percent} % du logement
 
 \\\\
 \\
 \\	Oct.Code.Rules.Prestige=Prestige {comparison} {prestige}
 \\
 \\\\
-Oct.Code.Rules.Prestige=\\untranslated
+Oct.Code.Rules.Prestige=Prestige {comparison} {prestige}
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant.Limit=Limit
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant.Limit=\\untranslated
+Oct.Code.Rules.SatisfiesWant.Limit=Limite
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant=Satisfies a Want ({limit})
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant=\\untranslated
+Oct.Code.Rules.SatisfiesWant=Répond à un désir ({limit})
 
 \\\\
 \\
@@ -29466,10 +29466,10 @@ Oct.Grammar.Needs.Prestige.Grammar.Exceeded.results+=^<Oct.Character.Needs.Prest
 \\	Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> gruntled with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Prestige.
 \\
 \\\\
-Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> satisfait du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
-Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> ravi du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
-Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> content du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
-Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> mécontent du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
+Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> satisfait du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
+Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> ravi du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
+Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> content du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
+Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> mécontent du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
 
 \\\\
 \\
@@ -29478,7 +29478,7 @@ Oct.Grammar.Needs.Prestige.Grammar.Met.results+=^<Oct.Character.Needs.Prestige.G
 \\	Oct.Grammar.Needs.Prestige.Grammar.Unmet.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> seeking more Prestige.
 \\
 \\\\
-Oct.Grammar.Needs.Prestige.Grammar.Unmet.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> déçu du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
+Oct.Grammar.Needs.Prestige.Grammar.Unmet.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> déçu du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
 Oct.Grammar.Needs.Prestige.Grammar.Unmet.results+=^<Oct.Character.Needs.Grammar.PawnNeedNeedsNeeded> de plus de prestige.
 Oct.Grammar.Needs.Prestige.Grammar.Unmet.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> en quête de plus de prestige.
 
@@ -29489,9 +29489,9 @@ Oct.Grammar.Needs.Prestige.Grammar.Unmet.results+=^<Oct.Character.Needs.Prestige
 \\	Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> angry about <Oct.Character.Needs.Grammar.PawnMyYourTheir> Prestige.
 \\
 \\\\
-Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> extrêmement mécontent du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
-Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> insatisfait du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
-Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> en colère concernant le prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>.
+Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> extrêmement mécontent du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
+Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> insatisfait du prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
+Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Prestige.Grammar.PawnIsWas> en colère concernant le prestige de : <Oct.Character.Needs.Grammar.PawnMyYourTheir>
 
 \\\\
 \\
@@ -29501,7 +29501,7 @@ Oct.Grammar.Needs.Prestige.Grammar.Subceeded.results+=^<Oct.Character.Needs.Pres
 \\	Oct.Grammar.Needs.Respect.Grammar.Exceeded.results+=^<Oct.Character.Needs.Respect.Grammar.PawnIsWas> grateful for <Oct.Character.Needs.Grammar.WardenPosessive> Prestige!
 \\
 \\\\
-Oct.Grammar.Needs.Respect.Grammar.Exceeded.results+=^<Oct.Character.Needs.Respect.Grammar.PawnIsWas> heureux du prestige de : <Oct.Character.Needs.Grammar.WardenPosessive> !
+Oct.Grammar.Needs.Respect.Grammar.Exceeded.results+=^<Oct.Character.Needs.Respect.Grammar.PawnIsWas> satisfait du prestige de : <Oct.Character.Needs.Grammar.WardenPosessive> !
 Oct.Grammar.Needs.Respect.Grammar.Exceeded.results+=^<Oct.Character.Needs.Respect.Grammar.PawnIsWas> époustouflé par le prestige de : <Oct.Character.Needs.Grammar.WardenPosessive> !
 Oct.Grammar.Needs.Respect.Grammar.Exceeded.results+=^<Oct.Character.Needs.Respect.Grammar.PawnIsWas> reconnaissant pour le prestige de : <Oct.Character.Needs.Grammar.WardenPosessive> !
 Oct.Grammar.Needs.Respect.Grammar.Exceeded.results+=^<Oct.Character.Needs.Respect.Grammar.PawnIsWas> redevable pour le prestige de : <Oct.Character.Needs.Grammar.WardenPosessive> !
@@ -31640,12 +31640,12 @@ Oct.Information.MoralInteraction.CheatedOn.thirdVerb=a trompé
 \\	Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interactee> died on <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interacter> watch.
 \\
 \\\\
-Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=^<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> n'a rien fait pour empêcher la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>.
-Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=^<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> a laissé mourir <Oct.Grammar.Noun.Third.Generic where grammar.noun=grammar.interactee>.
-Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.Is.Generic where grammar.noun=grammar.interacter> est coupable de la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>.
-Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.Is.Generic where grammar.noun=grammar.interacter> est responsable de la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>.
-Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> n'a pas empêché la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>.
-Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interactee> a succombé sous le règne de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interacter>.
+Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=^<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> {subject.con(n'ai,n'avez,n'a)} rien fait pour empêcher la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>
+Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=^<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> {subject.con(n'ai,n'avez,n'a)} pas empêché <Oct.Grammar.Noun.Third.Generic where grammar.noun=grammar.interactee> de mourir
+Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.Is.Generic where grammar.noun=grammar.interacter> {subject.con(suis,êtes,est)} coupable de la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>
+Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.Is.Generic where grammar.noun=grammar.interacter> {subject.con(suis,êtes,est)} responsable de la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>
+Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> {subject.con(n'ai,n'avez,n'a)} pas empêché la mort de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interactee>
+Oct.Information.MoralInteraction.AllowedDeath.grammar.results+=<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interactee> a succombé sous le règne de <Oct.Grammar.Noun.Posessive.Generic where grammar.noun=grammar.interacter>
 
 \\\\
 \\
@@ -32872,7 +32872,7 @@ Oct.Items.Categories.Seeds.name=Graines
 \\	Oct.Items.Categories.Food.Vegetarian.name=Vegetarian
 \\
 \\\\
-Oct.Items.Categories.Food.Vegetarian.name=\\untranslated
+Oct.Items.Categories.Food.Vegetarian.name=Végétarien
 
 \\\\
 \\
@@ -33931,14 +33931,14 @@ Oct.Items.PropCrate.pluralName=Caisses décoratives
 \\	Oct.Items.PropCrate.nameFormat={type} Crate
 \\
 \\\\
-Oct.Items.PropCrate.nameFormat=\\untranslated
+Oct.Items.PropCrate.nameFormat=Caisse de {type}
 
 \\\\
 \\
 \\	Oct.Items.PropCrate.BookSet.nameFormat={type}
 \\
 \\\\
-Oct.Items.PropCrate.BookSet.nameFormat=\\untranslated
+Oct.Items.PropCrate.BookSet.nameFormat={type}
 
 \\\\
 \\
@@ -34211,7 +34211,7 @@ Oct.Items.Shield.Wooden.pluralName=Boucliers en bois
 \\	Oct.Items.Stackable.Straw.name=Straw
 \\
 \\\\
-Oct.Items.Stackable.Straw.name=Fétus de paille
+Oct.Items.Stackable.Straw.name=Paille
 
 \\\\
 \\
@@ -34225,7 +34225,7 @@ Oct.Items.Stackable.Stone.name=Pierres
 \\	Oct.Items.Stackable.Wood.name=Wood
 \\
 \\\\
-Oct.Items.Stackable.Wood.name=Bûches de bois
+Oct.Items.Stackable.Wood.name=Bois
 
 \\\\
 \\
@@ -34246,7 +34246,7 @@ Oct.Items.Stackable.CottonSeeds.name=Graines de coton
 \\	Oct.Items.Stackable.Cotton.name=Cotton
 \\
 \\\\
-Oct.Items.Stackable.Cotton.name=Plants de coton
+Oct.Items.Stackable.Cotton.name=Coton
 
 \\\\
 \\
@@ -34351,91 +34351,91 @@ Oct.Items.Stackable.Pumpkins.name=Citrouilles
 \\	Oct.Items.Stackable.Copper.name=Copper
 \\
 \\\\
-Oct.Items.Stackable.Copper.name=Minerais de cuivre
+Oct.Items.Stackable.Copper.name=Cuivre
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.name=Raw Meat
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.name=Morceaux de viande crue
+Oct.Items.Stackable.RawMeat.name=Viande crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Boar.name=Raw Pork
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Boar.name=Morceaux de viande de porc crue
+Oct.Items.Stackable.RawMeat.Boar.name=Viande de porc crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.name=Cooked Meat
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.name=Morceaux de viande cuite
+Oct.Items.Stackable.CookedMeat.name=Viande cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Boar.name=Cooked Pork
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Boar.name=Morceaux de viande de porc cuite
+Oct.Items.Stackable.CookedMeat.Boar.name=Viande de porc cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Deer.name=Raw Venison
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Deer.name=Morceaux de viande de cerf crue
+Oct.Items.Stackable.RawMeat.Deer.name=Viande de cerf crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Deer.name=Cooked Venison
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Deer.name=Morceaux de viande de cerf cuite
+Oct.Items.Stackable.CookedMeat.Deer.name=Viande de cerf cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Cow.name=Raw Beef
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Cow.name=Morceaux de viande de bœuf crue
+Oct.Items.Stackable.RawMeat.Cow.name=Viande de bœuf crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Cow.name=Cooked Beef
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Cow.name=Morceaux de viande de bœuf cuite
+Oct.Items.Stackable.CookedMeat.Cow.name=Viande de bœuf cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Imp.name=Raw Imp
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Imp.name=Morceaux de viande de diablotin crue
+Oct.Items.Stackable.RawMeat.Imp.name=Viande de diablotin crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Imp.name=Cooked Imp
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Imp.name=Morceaux de viande de diablotin cuite
+Oct.Items.Stackable.CookedMeat.Imp.name=Viande de diablotin cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Breacher.name=Raw Breacher
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Breacher.name=Morceaux de viande de perceur crue
+Oct.Items.Stackable.RawMeat.Breacher.name=Viande de perceur crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Breacher.name=Cooked Breacher
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Breacher.name=Morceaux de viande de perceur cuite
+Oct.Items.Stackable.CookedMeat.Breacher.name=Viande de perceur cuite
 
 \\\\
 \\
@@ -34456,7 +34456,7 @@ Oct.Items.Stackable.IronRods.name=Tiges en fer
 \\	Oct.Items.Stackable.Iron.name=Iron
 \\
 \\\\
-Oct.Items.Stackable.Iron.name=Minerais de fer
+Oct.Items.Stackable.Iron.name=Fer
 
 \\\\
 \\
@@ -34477,14 +34477,14 @@ Oct.Items.Stackable.FireArrows.name=Flèches de feu
 \\	Oct.Items.Stackable.RawMeat.Kin.name=Raw Kin
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Kin.name=Morceaux de viande de kousin crue
+Oct.Items.Stackable.RawMeat.Kin.name=Viande de kousin crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Kin.name=Cooked Kin
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Kin.name=Morceaux de viande de kousin cuite
+Oct.Items.Stackable.CookedMeat.Kin.name=Viande de kousin cuite
 
 \\\\
 \\
@@ -34519,56 +34519,56 @@ Oct.Items.Stackable.TravelMeals.description=Un repas conservé et emballé pour 
 \\	Oct.Items.Stackable.RawMeat.Dwarf.name=Raw Dwarf
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Dwarf.name=Morceaux de viande de nain crue
+Oct.Items.Stackable.RawMeat.Dwarf.name=Viande de nain crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Dwarf.name=Cooked Dwarf
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Dwarf.name=Morceaux de viande de nain cuite
+Oct.Items.Stackable.CookedMeat.Dwarf.name=Viande de nain cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Human.name=Raw Human
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Human.name=Morceaux de viande d'humain crue
+Oct.Items.Stackable.RawMeat.Human.name=Viande d'humain crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Human.name=Cooked Human
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Human.name=Morceaux de viande d'humain cuite
+Oct.Items.Stackable.CookedMeat.Human.name=Viande d'humain cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Elf.name=Raw Elf
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Elf.name=Morceaux de viande d'elfe crue
+Oct.Items.Stackable.RawMeat.Elf.name=Viande d'elfe crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Elf.name=Cooked Elf
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Elf.name=Morceaux de viande d'elfe cuite
+Oct.Items.Stackable.CookedMeat.Elf.name=Viande d'elfe cuite
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Orc.name=Raw Orc
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Orc.name=Morceaux de viande d'orc crue
+Oct.Items.Stackable.RawMeat.Orc.name=Viande d'orc crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Orc.name=Cooked Orc
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Orc.name=Morceaux de viande d'orc cuite
+Oct.Items.Stackable.CookedMeat.Orc.name=Viande d'orc cuite
 
 \\\\
 \\
@@ -34624,21 +34624,21 @@ Oct.Items.Stackable.Moonshine.Wood.name=Liqueurs de bois
 \\	Oct.Items.Stackable.Wine.name=Wine
 \\
 \\\\
-Oct.Items.Stackable.Wine.name=Bouteilles de vin
+Oct.Items.Stackable.Wine.name=Vin
 
 \\\\
 \\
 \\	Oct.Items.Stackable.RawMeat.Wolf.name=Raw Wolf
 \\
 \\\\
-Oct.Items.Stackable.RawMeat.Wolf.name=Morceaux de viande de loup crue
+Oct.Items.Stackable.RawMeat.Wolf.name=Viande de loup crue
 
 \\\\
 \\
 \\	Oct.Items.Stackable.CookedMeat.Wolf.name=Cooked Wolf
 \\
 \\\\
-Oct.Items.Stackable.CookedMeat.Wolf.name=Morceaux de viande de loup cuite
+Oct.Items.Stackable.CookedMeat.Wolf.name=Viande de loup cuite
 
 \\\\
 \\
@@ -34659,14 +34659,14 @@ Oct.Items.Stackable.Coins.name=Pièces
 \\	Oct.Items.Stackable.Silver.name=Silver
 \\
 \\\\
-Oct.Items.Stackable.Silver.name=Pièces d'argent
+Oct.Items.Stackable.Silver.name=Argent
 
 \\\\
 \\
 \\	Oct.Items.Stackable.Gold.name=Gold
 \\
 \\\\
-Oct.Items.Stackable.Gold.name=Minerais d'or
+Oct.Items.Stackable.Gold.name=Or
 
 \\\\
 \\
@@ -34722,7 +34722,7 @@ Oct.Items.Stackable.Skins.Hide.name=Peaux
 \\	Oct.Items.Stackable.Skins.Leather.name=Leather
 \\
 \\\\
-Oct.Items.Stackable.Skins.Leather.name=Morceaux de cuir
+Oct.Items.Stackable.Skins.Leather.name=Cuir
 
 \\\\
 \\
@@ -62068,280 +62068,280 @@ Oct.Rooms.Work.name=Atelier
 \\	Oct.Rules.All.name=All of
 \\
 \\\\
-Oct.Rules.All.name=\\untranslated
+Oct.Rules.All.name=Tout de
 
 \\\\
 \\
 \\	Oct.Rules.All.tooltip=True when all child rules are True (False when Empty).
 \\
 \\\\
-Oct.Rules.All.tooltip=\\untranslated
+Oct.Rules.All.tooltip=Vrai quand toutes les règles secondaires sont vraies (faux si vide).
 
 \\\\
 \\
 \\	Oct.Rules.Any.name=Any of
 \\
 \\\\
-Oct.Rules.Any.name=\\untranslated
+Oct.Rules.Any.name=N'importe parmi
 
 \\\\
 \\
 \\	Oct.Rules.Any.tooltip=True when any child rule is True (False when empty).
 \\
 \\\\
-Oct.Rules.Any.tooltip=\\untranslated
+Oct.Rules.Any.tooltip=Vrai quand n'importe quelle règle secondaire est vraie (faux si vide).
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.name=Buff Pts
 \\
 \\\\
-Oct.Rules.BuffPoints.name=\\untranslated
+Oct.Rules.BuffPoints.name=Pts de bonus
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.tooltip=True when the sum of +'s on an Item meets the criteria.
 \\
 \\\\
-Oct.Rules.BuffPoints.tooltip=\\untranslated
+Oct.Rules.BuffPoints.tooltip=Vrai quand la somme des « + » de l'objet répond à ce critère.
 
 \\\\
 \\
 \\	Oct.Rules.Durability.name=Durability
 \\
 \\\\
-Oct.Rules.Durability.name=\\untranslated
+Oct.Rules.Durability.name=Durabilité
 
 \\\\
 \\
 \\	Oct.Rules.Durability.tooltip=True when Item Durability meets the criteria.
 \\
 \\\\
-Oct.Rules.Durability.tooltip=\\untranslated
+Oct.Rules.Durability.tooltip=Vrai quand la durabilité de l'objet répond à ce critère.
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.name=During a Feast
 \\
 \\\\
-Oct.Rules.DuringFeast.name=\\untranslated
+Oct.Rules.DuringFeast.name=Pendant un festin
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.tooltip=True during a Feast.
 \\
 \\\\
-Oct.Rules.DuringFeast.tooltip=\\untranslated
+Oct.Rules.DuringFeast.tooltip=Vrai pendant un festin.
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.name=During a Wedding
 \\
 \\\\
-Oct.Rules.DuringWedding.name=\\untranslated
+Oct.Rules.DuringWedding.name=Pendant un mariage
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.tooltip=True during a Wedding.
 \\
 \\\\
-Oct.Rules.DuringWedding.tooltip=\\untranslated
+Oct.Rules.DuringWedding.tooltip=Vrai pendant un mariage.
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.name=Is Claimable
 \\
 \\\\
-Oct.Rules.IsClaimable.name=\\untranslated
+Oct.Rules.IsClaimable.name=Est récupérable
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.tooltip=True when the Item is Claimable.
 \\
 \\\\
-Oct.Rules.IsClaimable.tooltip=\\untranslated
+Oct.Rules.IsClaimable.tooltip=Vrai quand l'objet est récupérable.
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.name=Is Junk
 \\
 \\\\
-Oct.Rules.IsJunk.name=\\untranslated
+Oct.Rules.IsJunk.name=Est un déchet
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.tooltip=True when the Item is Junk.
 \\
 \\\\
-Oct.Rules.IsJunk.tooltip=\\untranslated
+Oct.Rules.IsJunk.tooltip=Vrai quand l'objet est un déchet.
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.name=Is Spare Book Set
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.name=\\untranslated
+Oct.Rules.IsSpareBookSet.name=Est une collection de livres en trop
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.tooltip=True when there are extra Sets of this type (Placed or Crated, not Junk).
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.tooltip=\\untranslated
+Oct.Rules.IsSpareBookSet.tooltip=Vrai quand il existe des collections en trop de ce type (placées ou en caisse, pas en déchet).
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.name=Is
 \\
 \\\\
-Oct.Rules.ItemIs.name=\\untranslated
+Oct.Rules.ItemIs.name=Est
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.tooltip=True when the Item Type is in the list.
 \\
 \\\\
-Oct.Rules.ItemIs.tooltip=\\untranslated
+Oct.Rules.ItemIs.tooltip=Vrai quand le type d'objet est dans la liste.
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.name=None of
 \\
 \\\\
-Oct.Rules.NoneRule.name=\\untranslated
+Oct.Rules.NoneRule.name=Aucun de
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.tooltip=True when no child rule is True (True when empty).
 \\
 \\\\
-Oct.Rules.NoneRule.tooltip=\\untranslated
+Oct.Rules.NoneRule.tooltip=Vrai quand aucune règle secondaire n'est vraie (vrai si vide).
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.name=Prestige
 \\
 \\\\
-Oct.Rules.Prestige.name=\\untranslated
+Oct.Rules.Prestige.name=Prestige
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.tooltip=True when Item's Prestige meets the criteria
 \\
 \\\\
-Oct.Rules.Prestige.tooltip=\\untranslated
+Oct.Rules.Prestige.tooltip=Vrai quand le prestige de l'objet répond à ce critère.
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.name=Prestige as Percent of Ambition
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.name=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.name=Prestige en tant que pourcentage d'ambition
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.tooltip=True when the Item's Prestige meets the chosen condition compared to the Mortal's Ambition.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.tooltip=Vrai quand le prestige de l'objet répond à la condition choisie par rapport à l'ambition du mortel.
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.name=Prestige as Percent of Lodging
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.name=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.name=Prestige en tant que pourcentage de logement
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.tooltip=True when the Item's Prestige meets the chosen condition when compared to the Prestige of a Mortal's Lodging.<br><br>A Prestige as Percent of Lodging of "<= 50%" means that an Item must be less in Prestige than half that of their assigned Lodging.<br><br>Given that there are 8 equipment slots, that ensures that their Lodging will make up at least 20% of their Prestige, satisfying their Lodging Need.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.tooltip=Vrai quand le prestige de l'objet répond à la condition choisie par rapport au prestige du logement du mortel.<br><br>Un Prestige en tant que pourcentage de logement de « <= 50 % » signifie qu'un objet doit avoir moins de prestige que la moitié du logement affecté.<br><br>Étant donné qu'il existe 8 emplacements d'équipement, ceci permet de veiller à ce que le logement couvre au moins 20 % du prestige du mortel et ainsi satisfasse son besoin de logement.
 
 \\\\
 \\
 \\	Oct.Rules.Quality.name=Quality
 \\
 \\\\
-Oct.Rules.Quality.name=\\untranslated
+Oct.Rules.Quality.name=Qualité
 
 \\\\
 \\
 \\	Oct.Rules.Quality.tooltip=True when Item Quality meets the criteria.
 \\
 \\\\
-Oct.Rules.Quality.tooltip=\\untranslated
+Oct.Rules.Quality.tooltip=Vrai quand la qualité de l'objet répond à ce critère.
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.name=Qty
 \\
 \\\\
-Oct.Rules.Quantity.name=\\untranslated
+Oct.Rules.Quantity.name=Qté
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.tooltip=True when Qty of the Item meets the criteria.
 \\
 \\\\
-Oct.Rules.Quantity.tooltip=\\untranslated
+Oct.Rules.Quantity.tooltip=Vrai quand la qté de l'objet répond à ce critère.
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.name=Rarity
 \\
 \\\\
-Oct.Rules.Rarity.name=\\untranslated
+Oct.Rules.Rarity.name=Rareté
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.tooltip=True when Item Rarity meets the criteria.
 \\
 \\\\
-Oct.Rules.Rarity.tooltip=\\untranslated
+Oct.Rules.Rarity.tooltip=Vrai quand la rareté de l'objet répond à ce critère.
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.name=Satisfies a Want
 \\
 \\\\
-Oct.Rules.SatisfiesWant.name=\\untranslated
+Oct.Rules.SatisfiesWant.name=Répond à un désir
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.tooltip=True when the Item's Prestige satisfies a Want but doesn't exceed it by more than limit.
 \\
 \\\\
-Oct.Rules.SatisfiesWant.tooltip=\\untranslated
+Oct.Rules.SatisfiesWant.tooltip=Vrai quand le prestige de l'objet répond à un désir sans dépasser la limite.
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.name=Timeframe
 \\
 \\\\
-Oct.Rules.Timeframe.name=\\untranslated
+Oct.Rules.Timeframe.name=Plage horaire
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.tooltip=True between the hours of From and To.
 \\
 \\\\
-Oct.Rules.Timeframe.tooltip=\\untranslated
+Oct.Rules.Timeframe.tooltip=Vrai entre les heures « De » et « À ».
 
 \\\\
 \\
 \\	Oct.Rules.Value.name=Value
 \\
 \\\\
-Oct.Rules.Value.name=\\untranslated
+Oct.Rules.Value.name=Valeur
 
 \\\\
 \\
 \\	Oct.Rules.Value.tooltip=True when Item Value meets the criteria.
 \\
 \\\\
-Oct.Rules.Value.tooltip=\\untranslated
+Oct.Rules.Value.tooltip=Vrai quand la valeur de l'objet répond à ce critère.
 
 \\\\
 \\
@@ -63617,7 +63617,7 @@ Oct.Settings.Global.Controls.Camera.Move.Right.name=Déplacer vers la droite
 \\	Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Edge Scroll
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Défiler vers les bords
 
 \\\\
 \\
@@ -63638,14 +63638,14 @@ Oct.Settings.Global.Controls.Camera.Rotate.defaultValue=MAINTENIR [Molette] + [G
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Invert Pitch
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Tangage inversé
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Invert Pitch (Controlled)
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Tangage inversé (contrôlé)
 
 \\\\
 \\
