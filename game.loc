@@ -8051,14 +8051,14 @@ Oct.Code.Belongings.IncludedIn=Compris dans {belonging}
 \\	Oct.Code.Belongings.Returned={character} returned {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Returned={subject.con(J'ai,Vous avez,{subject} a)} rendu {belonging}
+Oct.Code.Belongings.Returned={character} a rendu {belonging}
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Claimed={character} claimed {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Claimed={subject.con(J'ai,Vous avez,{subject} a)} pris {belonging}
+Oct.Code.Belongings.Claimed={character} a pris {belonging}
 
 \\\\
 \\
@@ -16433,7 +16433,7 @@ Oct.Code.Information.Belonging.LostValue=Les affaires de {owners} ({belonging}) 
 \\	Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(I,you,{to})} claimed {belonging}
 \\
 \\\\
-Oct.Code.Information.Belonging.Claimed.Advanced={subject.con(J'ai,Vous avez,{to} a)} pris {belonging}
+Oct.Code.Information.Belonging.Claimed.Advanced={to.con(J'ai,Vous avez,{to} a)} pris {belonging}
 
 \\\\
 \\
@@ -20730,35 +20730,35 @@ Oct.Code.Kingdom.CannotRelocate.NoRuler=Aucun dirigeant !
 \\	Oct.Code.Kingdom.Size.Short.Large=Large
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Large=grands
+Oct.Code.Kingdom.Size.Short.Large=Grands
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Medium=Medium
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Medium=intermédiaires
+Oct.Code.Kingdom.Size.Short.Medium=Intermédiaires
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Small=Small
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Small=petits
+Oct.Code.Kingdom.Size.Short.Small=Petits
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Tiny=Tiny
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Tiny=minuscules
+Oct.Code.Kingdom.Size.Short.Tiny=Minuscules
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.VeryLarge=Very Large
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.VeryLarge=très grands
+Oct.Code.Kingdom.Size.Short.VeryLarge=Très grands
 
 \\\\
 \\
