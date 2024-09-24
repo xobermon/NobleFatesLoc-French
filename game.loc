@@ -12531,7 +12531,7 @@ Oct.Code.Command.Blocked=Bloqué
 \\	Oct.Code.Command.Feed.Blocked.NoFoodAvailable=No Allowed Food Available
 \\
 \\\\
-Oct.Code.Command.Feed.Blocked.NoFoodAvailable=\\untranslated
+Oct.Code.Command.Feed.Blocked.NoFoodAvailable=Aucune nourriture autorisée disponible\\autotranslated
 
 \\\\
 \\
@@ -22605,21 +22605,21 @@ Oct.Code.Report.Header=Signaler un problème
 \\	Oct.Code.Report.Summary=Summary
 \\
 \\\\
-Oct.Code.Report.Summary=\\untranslated
+Oct.Code.Report.Summary=Résumé\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact=Contact Info
 \\
 \\\\
-Oct.Code.Report.Contact=\\untranslated
+Oct.Code.Report.Contact=Coordonnées\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact.Tooltip=How do we get in touch?\n\nEmail, Discord, Steam ID work - please specify the type if it isn't clear.\n\nAutomatically saved for your convenience.
 \\
 \\\\
-Oct.Code.Report.Contact.Tooltip=\\untranslated
+Oct.Code.Report.Contact.Tooltip=Comment pouvons-nous vous contacter ?\n\nE-mail, Discord, Steam ID fonctionnent - veuillez spécifier le type s'il n'est pas clair.\n\nEnregistré automatiquement pour votre commodité.\\autotranslated
 
 \\\\
 \\
