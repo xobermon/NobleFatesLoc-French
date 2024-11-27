@@ -6224,7 +6224,7 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=Masculin 4
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Masculin — aucun
 
 \\\\
 \\
@@ -6385,7 +6385,7 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=Féminin 3
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Féminin — aucun
 
 \\\\
 \\
@@ -33068,7 +33068,7 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=Alcool artisanal
 \\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
 \\
 \\\\
-Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+Oct.Items.Categories.Gear.Outer.Cloaks.name=Capes\\autotranslated
 
 \\\\
 \\
@@ -33460,28 +33460,28 @@ Oct.Items.Categories.Props.Other.name=Autre
 \\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.name=Cape martiale\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.pluralName=Capes martiales\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.name=Cape royale\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.pluralName=Capes royales\\autotranslated
 
 \\\\
 \\
@@ -33530,28 +33530,28 @@ Oct.Items.Clothing.Hood.Cloth.name=Capuche en tissu
 \\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.name=Pauvre cape\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.pluralName=Pauvres capes\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.name=Cape modeste\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.pluralName=Capes modestes\\autotranslated
 
 \\\\
 \\
@@ -60948,28 +60948,28 @@ Oct.Research.Clothing.Costumes.Veil.name=Voile
 \\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Research.Clothing.Cloak.Poor.name=Pauvres capes\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Research.Clothing.Cloak.Modest.name=Capes modestes\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Research.Clothing.Cloak.Martial.name=Capes martiales\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Research.Clothing.Cloak.Royal.name=Capes royales\\autotranslated
 
 \\\\
 \\
